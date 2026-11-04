@@ -3,8 +3,12 @@
   "name": "trade.neum/neum",
   "title": "NEUM",
   "description": "Ask your AI about US stock price levels, level crossings, model events and earnings. Educational.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "websiteUrl": "https://neum.trade/mcp",
+  "repository": {
+    "url": "https://github.com/neum-trade/neum-mcp",
+    "source": "github"
+  },
   "remotes": [
     {
       "type": "streamable-http",
