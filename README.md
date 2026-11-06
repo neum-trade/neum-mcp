@@ -5,7 +5,7 @@
 **US stock price levels, level crossings and earnings dates inside your AI assistant.**
 NEUM is a remote [Model Context Protocol](https://modelcontextprotocol.io) server for Claude, Claude Code, Cursor, VS Code and other MCP clients.
 
-[![MCP Registry](https://img.shields.io/badge/MCP%20Registry-trade.neum%2Fneum-1f6feb)](https://registry.modelcontextprotocol.io/v0.1/servers?search=trade.neum/neum)
+[![MCP Registry](https://img.shields.io/badge/MCP%20Registry-trade.neum%2Fmcp-1f6feb)](https://registry.modelcontextprotocol.io/v0.1/servers?search=trade.neum/mcp)
 [![Guide](https://img.shields.io/badge/guide-neum.trade%2Fmcp-dcb162)](https://neum.trade/mcp)
 
 > Educational data from automated models, not investment advice or a recommendation to buy, sell or hold any security.
